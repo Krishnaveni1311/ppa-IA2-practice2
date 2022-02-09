@@ -1,1 +1,7 @@
-
+gcc -g p1original.c
+ ./a.out
+enter the value of base 
+9
+enter the height
+6
+the area of triangle with base 9.000000+ and height 6.000000 is 27.000000 
