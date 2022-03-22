@@ -1,1 +1,9 @@
-
+gcc -g p2original.c
+ ./a.out
+enter a side length: 
+6
+enter a side length: 
+6
+enter a side length: 
+5
+The triange is not scalene 

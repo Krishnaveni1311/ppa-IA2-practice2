@@ -1,1 +1,7 @@
-
+gcc -g p5original.c
+ ./a.out
+Enter the number :
+3
+Enter the number :
+9
+The H.C.F (G.C.D) of 3 and 9 is 3 
