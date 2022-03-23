@@ -1,1 +1,18 @@
-
+gcc -g p8original.c
+ ./a.out
+Enter the number of triangles: 
+3
+Enter the base, altitude of a triangle:
+2
+4
+Enter the base, altitude of a triangle:
+6
+9
+Enter the base, altitude of a triangle:
+5
+9
+Smallest among 2.0, 4.0 and
+Smallest among 6.0, 9.0 and
+5.0, 9.0
+is
+triangle with base = 2.0 and altitude = 4.0 having area = 4.0
